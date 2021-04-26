@@ -1,0 +1,1 @@
+# Numerical-method.-Solving-systems-of-nonlinear-algebraic-equations-by-the-Newton-method
